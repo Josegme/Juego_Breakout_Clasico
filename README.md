@@ -11,7 +11,7 @@ Este es un pequeño proyecto de un juego clásico estilo **Breakout** desarrolla
 
 ## Captura de pantalla 📷
 
-_(Inserta una imagen aquí si deseas)_
+![el clásico](/images/arkanoid.png)
 
 ## ¿Cómo jugar? 🎯
 
